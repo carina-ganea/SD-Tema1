@@ -1,0 +1,24 @@
+<built-in function sorted>: 
+	test1.in: 0.0 sec. --> Sortare corecta
+	test2.in: 0.002991914749145508 sec. --> Sortare corecta
+
+<function BubbleSort at 0x009E5BB0>: 
+	test1.in: 0.0 sec. --> Sortare corecta
+	test2.in: 21.054696798324585 sec. --> Sortare corecta
+
+<function CountSort at 0x009E5BF8>: 
+	test1.in: 0.0 sec. --> Sortare corecta
+	test2.in: 0.21043753623962402 sec. --> Sortare corecta
+
+<function RadixSort at 0x009E5C88>: 
+	test1.in: 0.0 sec. --> Sortare corecta
+	test2.in: 0.020941495895385742 sec. --> Sortare corecta
+
+<function MergeSort at 0x009E5CD0>: 
+	test1.in: 0.0 sec. --> Sortare corecta
+	test2.in: 0.11369562149047852 sec. --> Sortare corecta
+
+<function QuickSort at 0x009E5C40>: 
+	test1.in: 0.0 sec. --> Sortare corecta
+	test2.in: 0.0747830867767334 sec. --> Sortare corecta
+

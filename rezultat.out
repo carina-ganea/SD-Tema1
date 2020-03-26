@@ -1,0 +1,98 @@
+<built-in function sorted>: 
+	test1.in: 0.0 sec. --> Sortare corecta
+	test2.in: 0.0029296875 sec. --> Sortare corecta
+	test3.in: 0.0 sec. --> Sortare corecta
+	test4.in: 0.0 sec. --> Sortare corecta
+	test5.in: 0.0009918212890625 sec. --> Sortare corecta
+	test6.in: 0.0009772777557373047 sec. --> Sortare corecta
+	test7.in: 0.015650510787963867 sec. --> Sortare corecta
+	test8.in: 0.011676549911499023 sec. --> Sortare corecta
+	test9.in: 0.11907267570495605 sec. --> Sortare corecta
+	test10.in: 0.10443282127380371 sec. --> Sortare corecta
+	test11.in: 0.14047622680664062 sec. --> Sortare corecta
+	test12.in: 0.016534090042114258 sec. --> Sortare corecta
+
+<function BubbleSort at 0x013CEAD8>: 
+	test1.in: 0.0 sec. --> Sortare corecta
+	test2.in: Depaseste 10 sec. timp de executie
+	test3.in: 0.0 sec. --> Sortare corecta
+	test4.in: 0.0 sec. --> Sortare corecta
+	test5.in: 0.20593547821044922 sec. --> Sortare corecta
+	test6.in: 0.20105528831481934 sec. --> Sortare corecta
+	test7.in: Depaseste 10 sec. timp de executie
+	test8.in: Depaseste 10 sec. timp de executie
+	test9.in: Depaseste 10 sec. timp de executie
+	test10.in: Depaseste 10 sec. timp de executie
+	test11.in: Depaseste 10 sec. timp de executie
+	test12.in: Depaseste 10 sec. timp de executie
+
+<function CountSort at 0x013CEB20>: 
+	test1.in: 0.0 sec. --> Sortare corecta
+	test2.in: 0.3942892551422119 sec. --> Sortare corecta
+	test3.in: 0.0 sec. --> Sortare corecta
+	test4.in: 0.0 sec. --> Sortare corecta
+	test5.in: 0.6460666656494141 sec. --> Sortare corecta
+	test6.in: Depaseste 10 sec. timp de executie
+	test7.in: 0.7944638729095459 sec. --> Sortare corecta
+	test8.in: 0.08783960342407227 sec. --> Sortare corecta
+	test9.in: 0.1581132411956787 sec. --> Sortare corecta
+	test10.in: 0.235215425491333 sec. --> Sortare corecta
+	test11.in: 4.199718952178955 sec. --> Sortare corecta
+	test12.in: 3.912776470184326 sec. --> Sortare corecta
+
+<function RadixSortBaza10 at 0x013CEBF8>: 
+	test1.in: 0.0009760856628417969 sec. --> Sortare corecta
+	test2.in: 0.013669967651367188 sec. --> Sortare corecta
+	test3.in: 0.0 sec. --> Sortare corecta
+	test4.in: 0.0 sec. --> Sortare corecta
+	test5.in: 0.0009753704071044922 sec. --> Sortare corecta
+	test6.in: 0.0019500255584716797 sec. --> Sortare corecta
+	test7.in: 1.7079954147338867 sec. --> Sortare corecta
+	test8.in: 0.1298079490661621 sec. --> Sortare corecta
+	test9.in: 0.3933284282684326 sec. --> Sortare corecta
+	test10.in: 0.3952772617340088 sec. --> Sortare corecta
+	test11.in: 1.471804141998291 sec. --> Sortare corecta
+	test12.in: 0.029239177703857422 sec. --> Sortare corecta
+
+<function RadixSortBaza2 at 0x013CEBB0>: 
+	test1.in: 0.0 sec. --> Sortare corecta
+	test2.in: 0.03904390335083008 sec. --> Sortare corecta
+	test3.in: 0.0 sec. --> Sortare corecta
+	test4.in: 0.000978231430053711 sec. --> Sortare corecta
+	test5.in: 0.0039017200469970703 sec. --> Sortare corecta
+	test6.in: 0.005854129791259766 sec. --> Sortare corecta
+	test7.in: 4.746279239654541 sec. --> Sortare corecta
+	test8.in: 0.3395974636077881 sec. --> Sortare corecta
+	test9.in: 1.3742055892944336 sec. --> Sortare corecta
+	test10.in: 1.451308250427246 sec. --> Sortare corecta
+	test11.in: 3.800536870956421 sec. --> Sortare corecta
+	test12.in: 0.04489421844482422 sec. --> Sortare corecta
+
+<function MergeSort at 0x013CEC40>: 
+	test1.in: 0.0 sec. --> Sortare corecta
+	test2.in: 0.07027626037597656 sec. --> Sortare corecta
+	test3.in: 0.0 sec. --> Sortare corecta
+	test4.in: 0.0 sec. --> Sortare corecta
+	test5.in: 0.0058629512786865234 sec. --> Sortare corecta
+	test6.in: 0.004879474639892578 sec. --> Sortare corecta
+	test7.in: 7.331700563430786 sec. --> Sortare corecta
+	test8.in: 0.5973098278045654 sec. --> Sortare corecta
+	test9.in: 3.2022511959075928 sec. --> Sortare corecta
+	test10.in: 6.456230640411377 sec. --> Sortare corecta
+	test11.in: 6.026786804199219 sec. --> Sortare corecta
+	test12.in: 0.04391956329345703 sec. --> Sortare corecta
+
+<function QuickSort at 0x013CEB68>: 
+	test1.in: 0.0 sec. --> Sortare corecta
+	test2.in: 0.04587841033935547 sec. --> Sortare corecta
+	test3.in: 0.0009732246398925781 sec. --> Sortare corecta
+	test4.in: 0.0 sec. --> Sortare corecta
+	test5.in: 0.003903627395629883 sec. --> Sortare corecta
+	test6.in: 0.0038979053497314453 sec. --> Sortare corecta
+	test7.in: 7.362931728363037 sec. --> Sortare corecta
+	test8.in: 0.5377733707427979 sec. --> Sortare corecta
+	test9.in: 1.679694414138794 sec. --> Sortare corecta
+	test10.in: 1.977370262145996 sec. --> Sortare corecta
+	test11.in: 1.0335814952850342 sec. --> Sortare corecta
+	test12.in: 0.041912078857421875 sec. --> Sortare corecta
+
